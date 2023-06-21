@@ -1,6 +1,6 @@
 # remmexico
 
-Open the file Thether (1).sol 
+Open the file REMIX_CODE.sol 
 run it in REMIX 
 Deploy a contract with the environment Remix VM (Merge)
 Choose two addresses in the account, one as the sender and another one as the receiver
